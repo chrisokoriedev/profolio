@@ -82,7 +82,7 @@ h1, h2, h3, h4, h5, h6 {
 #header h2 span {
   color: #fff;
   border-bottom: 2px solid #18d26e;
-  padding-bottom: 6px;
+  padding-bottom: 26px;
 }
 #header img {
   padding: 0;
@@ -110,7 +110,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 @media (max-width: 992px) {
   #header h1 {
-    font-size: 36px;
+    font-size: 26px;
   }
   #header h2 {
     font-size: 20px;
@@ -293,7 +293,7 @@ section {
   bottom: 100%;
   opacity: 0;
   transition: ease-in-out 0.4s;
-  z-index: 2;
+  z-index: 26px;
 }
 section.section-show {
   top: 100px;
@@ -485,8 +485,8 @@ section .container {
   border-radius: 50%;
   margin: -40px 0 0 40px;
   position: relative;
-  z-index: 2;
-  border: 6px solid rgba(255, 255, 255, 0.12);
+  z-index: 26px;
+  border: 26px solid rgba(255, 255, 255, 0.12);
 }
 .testimonials .testimonial-item h3 {
   font-size: 18px;
@@ -520,7 +520,7 @@ section .container {
   padding: 20px 20px 60px 20px;
   background: rgba(255, 255, 255, 0.1);
   position: relative;
-  border-radius: 6px;
+  border-radius: 26px;
   position: relative;
   z-index: 1;
 }
@@ -710,7 +710,7 @@ section .container {
   top: 30px;
   bottom: 30px;
   transition: all ease-in-out 0.3s;
-  z-index: 2;
+  z-index: 26px;
   opacity: 0;
 }
 .portfolio .portfolio-wrap .portfolio-info {
@@ -940,7 +940,7 @@ section .container {
   border-radius: 50%;
   width: 24px;
   height: 24px;
-  margin: 0 10px -6px 0;
+  margin: 0 10px -26px 0;
   border: 3px solid #18d26e;
   border-top-color: #eee;
   -webkit-animation: animate-loading 1s linear infinite;
